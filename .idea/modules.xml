@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code-Anywhere-Desafios.iml" filepath="$PROJECT_DIR$/.idea/Code-Anywhere-Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/src/desafios.iml" filepath="$PROJECT_DIR$/desafios/src/desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios1.iml" filepath="$PROJECT_DIR$/desafios/desafios1.iml" />
+    </modules>
+  </component>
+</project>
