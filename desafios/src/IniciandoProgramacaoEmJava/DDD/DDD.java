@@ -10,39 +10,6 @@ public class DDD {
         Scanner leitor = new Scanner(System.in);
         int DDD = leitor.nextInt();//Lê o DDD a ser pesquisado
 
-        switch (DDD) {// Switch recebe o DDD a ser pesquisado
-            case 61:
-                System.out.println("Brasilia");
-                break;
-            case 71:
-                System.out.println("Salvador");
-                break;
-            case 11:
-                System.out.println("São Paulo");
-                break;
-            case 21:
-                System.out.println("Rio de Janeiro");
-                break;
-            case 32:
-                System.out.println("Juiz de Fora");
-                break;
-            case 19:
-                System.out.println("Campinas");
-                break;
-            case 27:
-                System.out.println("Vitoria");
-                break;
-            case 31:
-                System.out.println("Belo Horizonte");
-                break;
-
-                default: System.out.println("DDD nao cadastrado");
-                //Se nenhum das opções acima serem verdadeiras, então será impressa a mensagem "DDD Não Cadastrado"
-        }
-
-
-
-
         Map<Integer,String> DDDs = new HashMap<Integer,String>();
         //Map rece dois parametros<Chave,Valor>, Onde valor é o DDD e o valor é a cidade pertencente a este ddd.
 
