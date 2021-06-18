@@ -44,7 +44,7 @@ Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD
     System.out.println("DDD Não cadastrado");
  }
  ```
- <p>No bloco acima é ferificado se há algum valor relacionado a chave(DDD), caso não haja retornara null e será impresso "DDD Não Cadastrado",
+ <p>No bloco acima é verificado se há algum valor relacionado a chave(DDD), caso não haja retornara null e será impresso "DDD Não Cadastrado",
   Caso não seja null(!null) então quer dizer que existe um valor relacionado a está chave, então o valor será impresso.</p>
              
           
